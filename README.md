@@ -55,3 +55,11 @@ Hidden layers: 64 (ReLU), 32 (ReLU)
 Output: 1 neuron (Linear activation)
 
 Performance: Testing loss of 0.109 (MSE normalized)
+
+⚙️ Repository Structure
+
+├── train_mnist.py        # Script for MNIST classification using custom MLP
+├── train_mpg.py          # Script for Auto MPG regression using custom MLP
+├── Project_1 Report.pdf  # Detailed report with methodology, results, and analysis
+└── README.md             # Project documentation
+
